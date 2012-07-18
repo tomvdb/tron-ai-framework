@@ -1,0 +1,5 @@
+C:\source\tronbot\tronbot\tronbot\bin\Debug\tronbot.exe
+C:\source\tronbot\tronbot\tronbot\bin\Debug\tronbot.pdb
+C:\source\tronbot\tronbot\tronbot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\tronbot\tronbot\tronbot\obj\x86\Debug\tronbot.exe
+C:\source\tronbot\tronbot\tronbot\obj\x86\Debug\tronbot.pdb
